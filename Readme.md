@@ -17,3 +17,6 @@ If the agent picks up the item correct place, reward with 20.
 If agent tries to drop-off item in wrong place or does not have the item, punish with -10 in reward.
 If the agent drops-off item in correct place, reward with 20.
 That translates into the following code. I prefer to implement this code, as I think the standard libraries that provide similar frameworks hide some important details. As an example, and shown later, how do you map this into a state in the Q-table?
+
+# Demo adding
+demo adding
